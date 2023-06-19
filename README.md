@@ -1,8 +1,7 @@
 # 2022-PHM-Conference-Data-Challenge
 
 ### 介紹數據
-![](https://hackmd.io/_uploads/HybM7KpDn.png)
-
+![image](https://github.com/jamieeeeeeee/2022-PHM-Conference-Data-Challenge/blob/main/the%20hydraulic%20rock%20drill.jpg)
 * [2022 PHM Conference Data Challenge](https://data.phmsociety.org/2022-phm-conference-data-challenge/) 的數據，液壓鑿岩機的故障數據。
 * 內容包含15個檔案，分別為三個感應器以及五個操作者互相配對產生。
     * 三個感應器(pdmp, pin, po)
